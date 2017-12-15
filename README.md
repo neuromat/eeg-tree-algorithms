@@ -11,4 +11,4 @@ The algorithms for the simulation study are available on folder Simulations. Ins
 ## REFERENCE
 
 Retrieving a context tree from EEG data.
-Can be downloaded from arXiv:1602.00579, 2016. 
+Can be downloaded from [arXiv:1602.00579, 2016.](https://arxiv.org/abs/1602.00579) 
